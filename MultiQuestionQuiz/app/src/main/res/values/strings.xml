@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multi Question Quiz</string>
+    <string name="q1">Africa a Continent?</string>
+    <string name="q2">Sun rises in the west?</string>
+    <string name="q3">24 hours constitues one Earth Day?</string>
+    <string name="q4">Alaska is a state of USA?</string>
+    <string name="q5">Hindi is the national language of India?</string>
+    <string name="question_label">question</string>
+    <string name="true_label">True</string>
+    <string name="false_label">False</string>
+    <string name="next_label">Next &gt;</string>
+    <string name="prev_label">&lt; Prev</string>
+</resources>
