@@ -68,6 +68,20 @@ Widgets exist in a hierarchy of View objects called the view hierarchy.
 
 
 
+ ![View Hierarchy] (images/layout.png)
+
+
+
+
+
+![View Hierarchy](layout.png)
+
+
+
+
+
+
+
 # Widget Attributes
 
 This section covers some of the common widget attributes
