@@ -115,6 +115,12 @@ The attribute to define the resource ID for a widget.  We use a + sign to define
 >
 > Here + indicates we are using the value as reference and not as String.
 
+## android:textSize
+
+One way to define the font size 
+
+> Example: android:textSize="25dp"
+
 # String Resource
 
 A string resource is a string that lives in a separate XML file called strings file. By default strings file will be named as strings.xml.
