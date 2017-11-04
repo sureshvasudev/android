@@ -10,6 +10,7 @@ Each work is maintained as separate project and has its own README file, detaili
 | ----- | ----------------- | ---------------------------------------- |
 | 1     | GeoQuiz           | A simple project with one activity, to demonstrate how to create a project in Android. |
 | 2     | MultiQuestionQuiz | A multi question Quiz with the option of selecting the answer and also to traverse between questions. |
+| 3     | ActivityLifecycle | To understand the Android application Activity Lifecycle, its behavior during device rotation and how to use logs to monitor the activity. |
 
 
 
